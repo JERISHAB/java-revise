@@ -1,3 +1,4 @@
+package demo;
 public class Student {
     String name = "Jerishab M";
     int age = 22;

@@ -1,3 +1,4 @@
+package demo;
 
 
 public class Main {
@@ -8,4 +9,4 @@ public class Main {
         System.out.println(student.age);
         System.out.println(student.isEnrolled);
     }
-}
+}  
