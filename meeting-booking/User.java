@@ -4,7 +4,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class User {
+class User {
     static int users = 0;
     int userId;
     ArrayList<MeetingRoom> meetingRoomList = new ArrayList<>();
